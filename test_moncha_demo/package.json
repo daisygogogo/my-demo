@@ -1,0 +1,16 @@
+{
+  "name": "test_moncha_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "daisy",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "node-fetch": "^2.6.0"
+  }
+}
