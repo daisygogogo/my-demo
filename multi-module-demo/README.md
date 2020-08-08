@@ -9,6 +9,7 @@ npm install
 ```
 npm run build
 ```
+multi-module-demo/images/1.png
 
 ### 使用 src/router/indexA.js 这个路由配置打包 
 ```
