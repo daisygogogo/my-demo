@@ -17,6 +17,7 @@ npm run build
 ```
 npm run build:mis
 ```
+
 ![pic2](./images/3.png)
 
 
