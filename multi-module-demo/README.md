@@ -1,16 +1,16 @@
-# multi-vue-a
+# multi-module-demo，根据不同build命令，使用不同的路由文件，从而实现分模块打包
 
 ## Project setup
 ```
 npm install
 ```
 
-### 使用 src/router/index.js 路由配置打包
+### 使用 src/router/index.js 这个路由配置打包
 ```
 npm run build
 ```
 
-### 使用 src/router/indexA.js 路由配置打包 
+### 使用 src/router/indexA.js 这个路由配置打包 
 ```
 npm run build:mis
 ```
