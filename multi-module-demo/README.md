@@ -11,13 +11,11 @@ npm run build
 ```
 ![pic1](./images/1.png)
 
-<br/>
-<br/>
+
 ### 2.使用 src/router/indexA.js 这个路由配置打包 
 ```
 npm run build:mis
 ```
-
 ![pic2](./images/3.png)
 
 
